@@ -17,6 +17,24 @@ body {
   margin: 0;
   font-family: 'Lato', sans-serif;
 }
+.a
+{
+margin: 30px;
+
+}
+h2 {
+
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 238, 238);
+  font-style: initial;
+  backface-visibility: inherit;
+  border: rgb(0, 0, 0);
+  border-bottom: saddlebrown;
+  margin-top: 10px;
+  margin-bottom: 10pt;
+  margin-block-end: 10px;
+  display: -ms-flexbox;
+}
 
 .container {
   margin: 30px auto;
@@ -26,6 +44,7 @@ body {
 h1 {
   letter-spacing: 1px;
   margin: 0;
+  
 }
 
 h3 {

@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <GlobalProvider>
-      <Header />
+      <Header className="a" />
       <div className="container">
         <Balance />
         <IncomeEx />
