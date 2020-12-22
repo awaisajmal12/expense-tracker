@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React, { useContext } from 'react';
 import { GlobalContext } from '../context/GlobalState';
 
